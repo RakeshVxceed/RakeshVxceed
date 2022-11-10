@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NET Core**
 
-- 📫 How to reach me **rakeshc261291@gmail.com**
+- 📫 How to reach me **rakesh.c@vxceed.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
